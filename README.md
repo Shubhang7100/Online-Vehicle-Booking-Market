@@ -1,8 +1,8 @@
 # Online-Vehicle-Booking-Market
 
-Shubham: Geographic Segmentation
-Vishnu: Demographic Segmentation
-Shubhang: Behavioral Segmentation
+*Shubham:* Geographic Segmentation
+*Vishnu:* Demographic Segmentation
+*Shubhang:* Behavioral Segmentation
 
 # PROBLEM STATEMENT
 
